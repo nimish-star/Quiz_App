@@ -9,7 +9,11 @@ Any additional information goes hereThis is a quiz application built using React
 ## Tech Stack
 
 React.js: A JavaScript library for building user interfaces.
+
 Material-UI: A popular React UI framework that provides pre-designed components for building responsive and visually appealing interfaces.
+
 OpenDB API: An API that provides access to a large collection of quiz questions and answers.
+
 HTML/CSS: Markup and styling for the app.
+
 React Router: A routing library for navigating between different pages within the app.
