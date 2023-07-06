@@ -17,3 +17,34 @@ OpenDB API: An API that provides access to a large collection of quiz questions 
 HTML/CSS: Markup and styling for the app.
 
 React Router: A routing library for navigating between different pages within the app.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  [git clone https://link-to-project](https://github.com/nimish-star/Quiz_App.git)
+```
+
+Go to the project directory
+
+```bash
+  cd Quiz_app
+```
+
+Install dependencies
+
+```bash
+  npm install axios react-router-dom @material-ui/core
+
+```
+
+Start the server
+
+```bash
+  npm  start
+```
+
+##Screeshots
+
